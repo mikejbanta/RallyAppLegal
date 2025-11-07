@@ -6,7 +6,7 @@
 
 By accessing or using the Rally mobile application ("Rally", "the App", "our App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use Rally.
 
-Rally is operated by [Your Company Name] ("we", "us", "our"). These Terms constitute a legally binding agreement between you and [Your Company Name].
+Rally is operated by Rally App ("we", "us", "our"). These Terms constitute a legally binding agreement between you and Rally App.
 
 ## 2. Description of Service
 
@@ -239,7 +239,7 @@ We do not guarantee that:
 - Results from using Rally will meet your expectations
 
 ### 14.2 Limitation of Liability
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, [YOUR COMPANY NAME] SHALL NOT BE LIABLE FOR:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, Rally App SHALL NOT BE LIABLE FOR:
 
 - Indirect, incidental, special, consequential, or punitive damages
 - Loss of profits, data, use, goodwill, or other intangible losses
@@ -260,7 +260,7 @@ You acknowledge that:
 
 ## 15. Indemnification
 
-You agree to indemnify, defend, and hold harmless [Your Company Name], its officers, directors, employees, and agents from any claims, liabilities, damages, losses, costs, or expenses (including legal fees) arising from:
+You agree to indemnify, defend, and hold harmless Rally App, its officers, directors, employees, and agents from any claims, liabilities, damages, losses, costs, or expenses (including legal fees) arising from:
 
 - Your use of Rally
 - Your User Content
@@ -312,7 +312,7 @@ Your continued use of Rally after changes constitute acceptance of the modified 
 ## 18. Dispute Resolution
 
 ### 18.1 Governing Law
-These Terms are governed by the laws of [Your State/Country], without regard to conflict of law principles.
+These Terms are governed by the laws of Washington, United States, without regard to conflict of law principles.
 
 ### 18.2 Arbitration Agreement
 Any dispute arising from these Terms or your use of Rally shall be resolved through binding arbitration, except:
@@ -321,7 +321,7 @@ Any dispute arising from these Terms or your use of Rally shall be resolved thro
 - Intellectual property disputes
 - Injunctive relief
 
-Arbitration will be conducted by a neutral arbitrator in accordance with [Arbitration Association] rules. You waive your right to participate in class actions.
+Arbitration will be conducted by a neutral arbitrator in accordance with Appropriate rules. You waive your right to participate in class actions.
 
 ### 18.3 Exceptions
 Either party may seek injunctive relief in court to prevent harm while arbitration is pending.
@@ -329,7 +329,7 @@ Either party may seek injunctive relief in court to prevent harm while arbitrati
 ## 19. General Provisions
 
 ### 19.1 Entire Agreement
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and [Your Company Name] regarding Rally.
+These Terms, together with the Privacy Policy, constitute the entire agreement between you and Rally App regarding Rally.
 
 ### 19.2 Severability
 If any provision of these Terms is found invalid or unenforceable, the remaining provisions remain in full effect.
@@ -359,12 +359,12 @@ If you are a parent or guardian and believe your child under 13 has provided inf
 
 For questions, concerns, or notices regarding these Terms:
 
-**Email**: [Your Support Email]
-**Mail**: [Your Company Name]
-[Your Address]
-[City, State, ZIP]
+**Email**: information.rally@gmail.com
+**Mail**: Rally App
+Spokane, Washington, 99208
 
-**Support**: Available in-app or at [support website]
+
+**Support**: Available in-app or at information.rally@gmail.com
 
 ## 22. Acknowledgment
 
@@ -378,4 +378,4 @@ By using Rally, you acknowledge that:
 
 ---
 
-**Copyright © 2025 [Your Company Name]. All rights reserved.**
+**Copyright © 2025 Rally App. All rights reserved.**
