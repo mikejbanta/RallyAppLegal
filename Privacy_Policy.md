@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Welcome to Rally. Your privacy is critically important to us. This Privacy Policy explains how [Your Company Name] ("we," "us," "our") collects, uses, shares, and protects your personal information when you use the Rally mobile application ("Rally," "the App," "our Service").
+Welcome to Rally. Your privacy is critically important to us. This Privacy Policy explains how Rally App ("we," "us," "our") collects, uses, shares, and protects your personal information when you use the Rally mobile application ("Rally," "the App," "our Service").
 
 By using Rally, you agree to the collection and use of information in accordance with this Privacy Policy. If you do not agree with this policy, please do not use Rally.
 
@@ -231,7 +231,6 @@ You can opt out of marketing communications in app settings.
 - Your role (admin/owner/member) in Rally Teams
 
 **What We Don't Share:**
-- Your phone number (never displayed to other users)
 - Your contact list
 - Events you haven't been invited to
 - Messages in events you're not part of
@@ -458,7 +457,7 @@ You can request:
 To exercise any privacy rights:
 
 1. **In-App**: Use Privacy Settings in the app
-2. **Email**: Contact [privacy@yourcompany.com]
+2. **Email**: Contact information.rally@gmail.com
 3. **Mail**: Send written request to our address below
 4. **Support**: Contact in-app support
 
@@ -617,9 +616,8 @@ You may designate an authorized agent to make requests on your behalf. We requir
 
 California residents can exercise rights by:
 
-- **Email**: [privacy@yourcompany.com] with subject "California Privacy Request"
-- **Phone**: [Your Privacy Hotline]
-- **Mail**: [Your Address] - Attn: Privacy Officer
+- **Email**: information.rally@gmail.com with subject "California Privacy Request"
+
 
 We will respond within 45 days (extendable by 45 days with notice).
 
@@ -698,11 +696,7 @@ We process your personal data based on:
 
 Contact our Data Protection Officer:
 
-**Email**: [dpo@yourcompany.com]
-**Mail**:
-Data Protection Officer
-[Your Company Name]
-[Your Address]
+**Email**: information.rally@gmail.com
 
 We will respond within 30 days (extendable by 60 days for complex requests).
 
@@ -713,7 +707,7 @@ You have the right to lodge a complaint with a supervisory authority in your cou
 ### 12.5 Data Protection Officer
 
 Our designated Data Protection Officer can be reached at:
-[dpo@yourcompany.com]
+information.rally@gmail.com
 
 ## 13. Changes to This Privacy Policy
 
@@ -755,36 +749,28 @@ For material changes that significantly affect your privacy rights:
 For questions, concerns, or requests regarding this Privacy Policy or our privacy practices:
 
 **Privacy Team:**
-- **Email**: [privacy@yourcompany.com]
+- **Email**: information.rally@gmail.com
 - **Subject Line**: "Privacy Inquiry - Rally"
 
 **Customer Support:**
 - **In-App**: Use the "Contact Support" feature
-- **Email**: [support@yourcompany.com]
+- **Email**: information.rally@gmail.com
 
-**Mailing Address:**
-[Your Company Name]
-Attn: Privacy Officer
-[Street Address]
-[City, State, ZIP Code]
-[Country]
-
-**Phone**: [Your Privacy Hotline] (Hours: [Your Hours])
 
 ### 14.2 Data Protection Officer (GDPR)
 
 For GDPR-specific inquiries:
 
-**Email**: [dpo@yourcompany.com]
+**Email**: information.rally@gmail.com
 **Subject**: "GDPR Request - Rally"
 
 ### 14.3 California Privacy Rights
 
 For CCPA-specific requests:
 
-**Email**: [privacy@yourcompany.com]
+**Email**: information.rally@gmail.com
 **Subject**: "California Privacy Request - Rally"
-**Phone**: [California Privacy Hotline]
+
 
 ### 14.4 Response Time
 
@@ -836,7 +822,7 @@ Complex requests may require additional time; we will notify you of any extensio
 - Limited employee access
 
 **Contact Us:**
-For any privacy concerns: [privacy@yourcompany.com]
+For any privacy concerns: information.rally@gmail.com
 
 ---
 
@@ -844,8 +830,8 @@ For any privacy concerns: [privacy@yourcompany.com]
 **Effective Date**: January 2025
 **Version**: 1.0
 
-**Copyright © 2025 [Your Company Name]. All rights reserved.**
+**Copyright © 2025 Rally App. All rights reserved.**
 
 ---
 
-**Note to Users**: We encourage you to read this entire Privacy Policy carefully. Understanding how we collect, use, and protect your information helps you make informed decisions about using Rally. If anything is unclear, please contact us at [privacy@yourcompany.com].
+**Note to Users**: We encourage you to read this entire Privacy Policy carefully. Understanding how we collect, use, and protect your information helps you make informed decisions about using Rally. If anything is unclear, please contact us at information.rally@gmail.com.
